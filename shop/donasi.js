@@ -4,22 +4,22 @@ return `DONASI BISA VIA BANK / E-MONEY
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 081262411188
+	ㅁ 088221743704
 2. OVO
-	ㅁ 081262411188
+	ㅁ 088221743704
 3. DANA
-	ㅁ 081262411188
+	ㅁ 088221743704
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 081262411188
+	ㅁ 088221743704
 2. OVO
-	ㅁ 081262411188
+	ㅁ 088221743704
 3. DANA
-	ㅁ 081262411188
+	ㅁ 088221743704
 	
-Semuanya atas nama Antastore
+Semuanya atas nama Shadow store
 `
 	}
 
