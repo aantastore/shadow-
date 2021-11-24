@@ -1,25 +1,25 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Shadow store
 
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 081262411188
+	ㅁ 088221743704
 2. OVO
-	ㅁ 081262411188
+	ㅁ 088221743704
 3. DANA
-	ㅁ 081262411188
+	ㅁ 088221743704
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 081262411188
+	ㅁ 088221743704
 2. OVO
-	ㅁ 081262411188
+	ㅁ 088221743704
 3. DANA
-	ㅁ 081262411188
+	ㅁ 088221743704
 	
-Semuanya atas nama Anta store
+Semuanya atas nama Shadow store
 
 *📲 PULSA*
 
